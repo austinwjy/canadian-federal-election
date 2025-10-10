@@ -1,7 +1,7 @@
 # 2019 Canadian Federal Election Prediction
 
 <h2>Description</h2>
-The Liberal party won the 2019 Canadian federal election with 6,018,728 votes out of a total 18,170,880 valid votes. This project focuses on predicting the 2019 Canadian federal election results by the datasets acquired before the election results from Canadian Election Study (CES) and the General Social Survey (GSS), to predict the overall popular votes of the 2019 Canadian federal election, using a logistic regression model with post-stratification (MRP) which is a statistical method to predict population by sample data, and then compare the results of the prediction with the true results of 2019 election to find out the performance of the model and study the importance of difference in results.
+This project focuses on predicting the 2019 Canadian federal election results by the datasets acquired before the election results from Canadian Election Study (CES) and the General Social Survey (GSS), to predict the overall popular votes of the 2019 Canadian federal election, using a logistic regression model with post-stratification (MRP) which is a statistical method to predict population by sample data, and then compare the results of the prediction with the true results of 2019 election to find out the performance of the model and study the importance of difference in results.
 
 <h2>Languages and Tools Used</h2>
 
