@@ -21,4 +21,5 @@ This project focuses on predicting the 2019 Canadian federal election results us
 - [Canadian Federal Election](https://github.com/austinwjy/canadian-federal-election/blob/main/Predicting%20the%202019%20Canadian%20Federal%20Election%20by%20MRP.pdf)
 
 <h2>Data Disclosure</h2>
-This project uses publicly available data from CES and GSS.
+
+- This project uses publicly available data from CES and GSS.
